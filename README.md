@@ -1,12 +1,3 @@
-# Awesome Accessibility [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-
-Image is an illustration by [Heydon Pickering](http://www.heydonworks.com/) which you can [see on Dribble](https://dribbble.com/shots/2121794-rock-n-roll-a11y).
-
-> A curated list of awesome accessibility tools, articles, and resources.
-> Inspired by [awesome-svg](https://github.com/willianjusten/awesome-svg), [awesome-webcomponents](https://github.com/obetomuniz/awesome-webcomponents) and [awesome-flexbox](https://github.com/afonsopacifer/awesome-flexbox).
-
-*Please read the [contribution guidelines](CONTRIBUTING.md) before contributing.*
-
 **Table of Contents**
 
 - [Accessibility Weekly](topics/newsletter.md)
