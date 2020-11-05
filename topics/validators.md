@@ -10,6 +10,7 @@
 |[AcessibilityJS](https://github.com/github/accessibilityjs)|Client side accessibility error scanner
 |[AccessLint](https://www.accesslint.com/)|A GitHub App that finds accessibility issues in your pull requests
 |[Accessibility Developer Tools](https://github.com/GoogleChrome/accessibility-developer-tools)|This is a library of accessibility-related testing and utility code.
+|[ARIA DevTools](https://chrome.google.com/webstore/detail/aria-devtools/dneemiigcbbgbdjlcdjjnianlikimpck)|Chrome extension that displays a developer-friendly visual representation of the browser accessibility tree.
 |[aslint.org](https://www.aslint.org/)|Accessibility testing tool
 |[aXe Core](https://axe-core.org/)|Chrome and Firefox extension to audit pages
 |[Enabler](https://github.com/musienkoyuriy/enabler)|Node.js CLI tool that warns you about potential accessibility issues. Supports: Pure HTML, Angular, Vue
@@ -21,6 +22,7 @@
 ### Colors and contrast
 | Tool | Description
 | --- | --- |
+|[a11y-contrast](https://github.com/darekkay/a11y-contrast)| A CLI utility to calculate/verify accessible magic numbers for a color palette
 |[Accessible Colors](https://accessible-colors.com/)|
 |[Check My Colours](http://www.checkmycolours.com/)|Validator of Color Constrast
 |[Chromelens - Extension Google Chrome](http://chromelens.xyz/)|
