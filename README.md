@@ -1,7 +1,5 @@
 # Awesome Accessibility [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-![The #a11y hashtag with the ones replaced by a fist giving the rock and roll sign.](https://user-images.githubusercontent.com/1204692/30697506-9fd3020c-9eb5-11e7-95ca-a6c56785dd66.png)
-
 Image is an illustration by [Heydon Pickering](http://www.heydonworks.com/) which you can [see on Dribble](https://dribbble.com/shots/2121794-rock-n-roll-a11y).
 
 > A curated list of awesome accessibility tools, articles, and resources.
